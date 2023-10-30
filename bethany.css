@@ -1,0 +1,20 @@
+ .container-fluid{
+    background-image: url(images/c3.jpg);
+    height: 100vh;
+    
+    background-size: cover;
+ }
+   
+    
+ 
+.text{
+    text-align: center;
+    margin-top: 15%;
+}
+.btn{
+    margin-left: 45%;
+    margin-top: 3%;
+}
+.row{
+    --bs-gutter-x0
+}
